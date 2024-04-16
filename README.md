@@ -10,7 +10,6 @@
   <a href="https://t.me/tipao381">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="110" height="30"/>
   </a>
-  <p>Contact me by mail: <a href="mailto:timofeicosenco03@gmail.com">timofeicosenco03@gmail.com</a></p>
 </div>
 
 ### About me
